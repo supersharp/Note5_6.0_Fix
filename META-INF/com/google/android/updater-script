@@ -1,6 +1,6 @@
 ui_print("Installing N920W8 DataFix Marshmallow");
 ui_print("By Battlehero @ XDA-Developers.com");
-ui_print("Test 6");
+ui_print("Stable Release");
 show_progress(1, 15);
 mount("ext4", "EMMC", "/dev/block/platform/15570000.ufs/by-name/SYSTEM", "/system");
 ui_print("Still waiting for the magic to happen");
